@@ -1,0 +1,5 @@
+{
+  "name": "AutoCheck",
+  "description": "Сервис для заказа и проведения осмотра автомобилей перед покупкой",
+  "requestFramePermissions": ["camera"]
+}
